@@ -1,0 +1,15 @@
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\bin\Debug\net6.0\LI_SDF_02_Polindrome.exe
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\bin\Debug\net6.0\LI_SDF_02_Polindrome.deps.json
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\bin\Debug\net6.0\LI_SDF_02_Polindrome.runtimeconfig.json
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\bin\Debug\net6.0\LI_SDF_02_Polindrome.dll
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\bin\Debug\net6.0\LI_SDF_02_Polindrome.pdb
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\obj\Debug\net6.0\LI_SDF_02_Polindrome.csproj.AssemblyReference.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\obj\Debug\net6.0\LI_SDF_02_Polindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\obj\Debug\net6.0\LI_SDF_02_Polindrome.AssemblyInfoInputs.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\obj\Debug\net6.0\LI_SDF_02_Polindrome.AssemblyInfo.cs
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\obj\Debug\net6.0\LI_SDF_02_Polindrome.csproj.CoreCompileInputs.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\obj\Debug\net6.0\LI_SDF_02_Polindrome.dll
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\obj\Debug\net6.0\refint\LI_SDF_02_Polindrome.dll
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\obj\Debug\net6.0\LI_SDF_02_Polindrome.pdb
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\obj\Debug\net6.0\LI_SDF_02_Polindrome.genruntimeconfig.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Polindrome\obj\Debug\net6.0\ref\LI_SDF_02_Polindrome.dll

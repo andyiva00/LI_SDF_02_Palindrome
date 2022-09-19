@@ -1,0 +1,15 @@
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\bin\Debug\net6.0\LI_SDF_02_Palindrome.exe
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\bin\Debug\net6.0\LI_SDF_02_Palindrome.deps.json
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\bin\Debug\net6.0\LI_SDF_02_Palindrome.runtimeconfig.json
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\bin\Debug\net6.0\LI_SDF_02_Palindrome.dll
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\bin\Debug\net6.0\LI_SDF_02_Palindrome.pdb
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\obj\Debug\net6.0\LI_SDF_02_Palindrome.csproj.AssemblyReference.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\obj\Debug\net6.0\LI_SDF_02_Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\obj\Debug\net6.0\LI_SDF_02_Palindrome.AssemblyInfoInputs.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\obj\Debug\net6.0\LI_SDF_02_Palindrome.AssemblyInfo.cs
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\obj\Debug\net6.0\LI_SDF_02_Palindrome.csproj.CoreCompileInputs.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\obj\Debug\net6.0\LI_SDF_02_Palindrome.dll
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\obj\Debug\net6.0\refint\LI_SDF_02_Palindrome.dll
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\obj\Debug\net6.0\LI_SDF_02_Palindrome.pdb
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\obj\Debug\net6.0\LI_SDF_02_Palindrome.genruntimeconfig.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_02_Palindrome\obj\Debug\net6.0\ref\LI_SDF_02_Palindrome.dll
