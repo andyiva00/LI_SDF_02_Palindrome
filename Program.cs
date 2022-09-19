@@ -2,6 +2,7 @@
 // Learning Path: Software Development Fundamentals
 // Course: Learning C#
 // Challenge: Palindrome
+// Student: Andrey Ivanov
 
 
 internal class Program
